@@ -1,0 +1,41 @@
+_repo: Aventures-de-Monsieur-Pickwick-Vol.-II_14789
+_version: 0.1.0
+alternative_title: Pickwick papers. French
+contributor:
+  translator:
+    agent_name: Grolier, P.
+    gutenberg_agent_id: '5690'
+    url: http://www.gutenberg.org/2009/agents/5690
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14789'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Men -- Societies and clubs -- Fiction'
+- !lcc 'PR'
+title: Aventures de Monsieur Pickwick, Vol. II
+url: http://www.gutenberg.org/ebooks/14789
